@@ -1,0 +1,79 @@
+.sobre_mim{
+    margin-top: 100px;
+    padding-inline: 80px;   
+}
+
+.sobre_mim h1{
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.container_sobre_mim{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    gap: 50px;
+    padding-top: 50px;
+}
+
+.container_sobre_mim p{
+    font-size: 1.2rem;
+}
+
+.linha{
+    border: 4px solid #BCBCBC;
+    width: 920px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.card_sobre_mim {
+    width: 250px;
+    text-align: center;
+    color: #BCBCBC;
+}
+
+.paragrafo{
+    text-align: justify;
+}
+
+
+.bolinha1{
+   width: 20px;
+   background-color: #BCBCBC;
+   height: 20px;
+   border-radius: 50%;
+   position: absolute;
+   bottom: -10px;
+   left: -10px;
+}
+
+.bolinha2{
+    width: 20px;
+    background-color: #BCBCBC;
+    height: 20px;
+    border-radius: 50%;
+    position: absolute;
+    bottom: -10px;
+    left: 300px;
+ }
+
+ .bolinha3{
+    width: 20px;
+    background-color: #BCBCBC;
+    height: 20px;
+    border-radius: 50%;
+    position: absolute;
+    bottom: -10px;
+    left: 600px;
+ }
+
+ .bolinha4{
+    width: 20px;
+    background-color: #BCBCBC;
+    height: 20px;
+    border-radius: 50%;
+    position: absolute;
+    bottom: -10px;
+    left: 900px;
+ }

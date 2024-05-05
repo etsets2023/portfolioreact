@@ -1,0 +1,37 @@
+footer{
+    margin-top: 100px;
+    color: white;
+    margin-top: 100px;
+    padding-inline: 80px; 
+    display: flex; 
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 50px;
+}
+
+.redes_nav{
+    font-size: 30px;
+
+}
+
+.telefone_footer p, .email_footer p{
+    margin-bottom: 0;
+    font-size: 1.2rem;
+}
+
+.email_footer a{
+    font-size: 1.2rem;
+    text-decoration: none;
+    color: white;
+    border-bottom: 2px solid transparent;
+    transition: 0.5s;
+}
+
+.email_footer a:hover{
+    border-bottom: 2px solid white;
+}
+
+.elaine{
+    margin-bottom: -10px;
+}
+

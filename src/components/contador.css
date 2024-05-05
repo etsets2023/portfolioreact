@@ -1,0 +1,37 @@
+.contador{
+    /* border: 2px solid white; */
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.h1_contador{
+    text-align: center;
+    margin-top: 100px;   
+}
+
+.container_botoes{
+    display: flex;
+    gap: 20px;
+}
+
+.container_botoes button{
+    padding: 10px 50px;
+    border-radius: 18px;
+    border: none;
+    cursor: pointer;
+    color: white;
+}
+
+.btn_sub{
+    background-color: red;
+}
+
+.btn_add{
+    background-color: green;
+}
+
+h2{
+    color: white;
+}
